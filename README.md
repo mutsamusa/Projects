@@ -18,6 +18,9 @@ My goals are to practice semantic HTML, creating forms, tables and CSS.
 - [Acknowledgments](#acknowledgments)
 
 ## Getting Started
+I basically just coded the stuff I learnt that was still stuck in my head to maximise learning effect.
+Not particuarly good at webdesigning but that's not the focus of this project.
+Will now be going over each webpage and focus on certain areas (eg. Navigation Bar, Header) that still need working on. 
 
 ### Prerequisites
 
